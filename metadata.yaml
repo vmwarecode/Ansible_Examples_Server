@@ -1,0 +1,7 @@
+name: "auto-generated-pkg-006c24bb-0c89-422e-990b-bf238849ba36"
+productVersion: "7.0.1-SNAPSHOT"
+data:
+- locator: "composite-blueprint/Ansible_Examples_Server.yaml"
+  name: "Ansible_Examples_Server"
+  description: "Ansible_Examples_Server"
+exportTime: "2016-05-13T23:24:37.769Z"
